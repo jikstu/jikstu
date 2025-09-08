@@ -1,4 +1,4 @@
-## Hi there 👋
+## heloo welcom to github profl 👋
 
 <!--
 **jikstu/jikstu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
