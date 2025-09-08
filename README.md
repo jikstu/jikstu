@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 --> 
 - 🔭 I’m currently working on @agungari9_
 - 🌱 I’m currently learning [**laravel**] (https://laravel.com) fraework
-- ![how are you] (https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3cxeWlidXFjODd5ZTU4azIzY3RobzhpeWoxcDBmZDVwOTdueHQ5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NqfiDu7s1BCSI/giphy.gif)
+- ![how are you](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3cxeWlidXFjODd5ZTU4azIzY3RobzhpeWoxcDBmZDVwOTdueHQ5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NqfiDu7s1BCSI/giphy.gif)
 
 
